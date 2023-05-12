@@ -1,0 +1,19 @@
+{
+  "name": "ai-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.11",
+    "openai": "^3.2.1",
+    "reveal.js": "^4.5.0",
+    "slugify": "^1.6.6"
+  }
+}
